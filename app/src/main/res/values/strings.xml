@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="update_dialog_text_localization">Обновление…</string>
+    <string name="apply_custom_css_settings">CSS</string>
+    <string name="reload_webview_button_settings">Обновить</string>
+    <string name="exit_button_settings">Выйти</string>
+</resources>
